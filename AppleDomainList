@@ -1,2 +1,3 @@
+! DO NOT BLOCK
+! uts-api.itunes.apple.com (Apple TV will not connect to servers without this domain)
 swallow.apple.com
-uts-api.itunes.apple.com
