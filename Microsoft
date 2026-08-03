@@ -29,3 +29,11 @@ fs.microsoft.com
 ecs.office.com
 officeclient.microsoft.com
 mrodevicemgr.officeapps.live.com
+v10.events.data.microsoft.com
+v10c.events.data.microsoft.com
+us-v10c.events.data.microsoft.com
+eu-v10c.events.data.microsoft.com
+umwatsonc.events.data.microsoft.com
+watsonc.events.data.microsoft.com
+*.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
