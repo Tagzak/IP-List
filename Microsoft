@@ -37,3 +37,11 @@ umwatsonc.events.data.microsoft.com
 watsonc.events.data.microsoft.com
 *.vortex-win.data.microsoft.com
 settings-win.data.microsoft.com
+dl.delivery.mp.microsoft.com
+delivery.mp.microsoft.com
+prod.do.dsp.delivery.mp.microsoft.com
+definitionupdates.microsoft.com
+adl.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+emdl.ws.microsoft.com
+mp.microsoft.com
